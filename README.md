@@ -79,5 +79,5 @@ repita para todos
 
 ### Envie perguntas na app de IA Generativa e monitore pelo Dashboard do Grafana.
 
-![monitoramento](/images/grafana.png)
+![monitoramento](/IMAGES/grafana.png)
 
