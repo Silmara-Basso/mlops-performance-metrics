@@ -65,13 +65,19 @@ save & test
 
 # Agora vamos importar e configurar o dashboard
 dashboards
+
 create dashboard
+
 import
+
 arrate e solte o arquivo dashboard.json da pasta llmdashboardgrafana
+
 import
 
 Vai exibir como "No Data""
+
 vamos precisar atualizar as fontes clicando nos 3 pontinhos ao lado de cada painel, edit, run query, save dashboard e finalmente save
+
 back to dashboard
 
 repita para todos
