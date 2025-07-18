@@ -43,7 +43,7 @@ Can the landlord avoid liability for breaching this obligation if the state of d
 Why did the plaintiff wait seven months to file an appeal?
 Can you provide more details on the clarification provided in Note 1?
 
-![App](/images/assistente.png)
+![App](/IMAGES/assistente.png)
 
 
 ### 7- Abra o navegador e acesse o Grafana para carregar o dashboard. Siga as instruções das aulas para ajustar a configuração:
